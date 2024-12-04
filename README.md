@@ -19,6 +19,8 @@ ordinaria y Dual.”
 ## Objetivo
 Crearemos una web para el instituto [IES Pablo Picasso](https://fpiespablopicasso.es/).
 ![LOGOTIPO-IES-PABLO-PICASSO-texto-morado](https://github.com/user-attachments/assets/7a27e650-ef32-45ec-ba32-0352a7fa30b2)
+“El periodo de vacaciones de navidad comenzará el 20 de
+diciembre hasta el 8 de enero” 
 ## Ejemplos
 Para crear un repositorio tendré que usar este comando: 
 git init
