@@ -1,5 +1,5 @@
 # Repositorio para el examen de GIT 
-Mi nombre es Samuel Espejo y en este exámen voy a poner en práctica todo lo que he aprendido sobre GitHub.
+Soy samuel y hoy voy a poner en práctica mis conocimientos
 ## Alguna de las cosas que tendré que hacer son:
 ``` 
 -Crear repositorios locales
